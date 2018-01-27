@@ -1,4 +1,3 @@
-%Communication Mechanisms Enrich Pattern Formation in an Individual-Based Model of Collective Behaviour
 %Cole Zmurchok and Gerda de Vries
 %2017
 
